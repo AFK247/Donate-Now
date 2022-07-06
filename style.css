@@ -159,7 +159,7 @@ h2{
 .orange{
     color: orange;
     font-size: 40px;
-    font-style: italic;
+    font-family: 'Lobster', cursive;
 }
 #innovative_section{
     display: flex;
