@@ -34,7 +34,7 @@ h2{
     text-decoration: none;
     color: aliceblue;
     padding:18px 28px;
-    background-color: rgb(170, 104, 28);
+    background-color: rgb(245, 97, 71);
     border-radius: 10px;
     font-size: 25px;
 }
@@ -121,30 +121,33 @@ h2{
 }
 .email_donate{
     
-    width: 50%;
-    margin-top: 13%;
-    margin-left: 27%;
+    width: 60%;
+    margin-top: 12%;
+    margin-left: 26%;
     
 }
-.email input{
+.email #first{
     border: none;
     outline: none;
-    height: 34px;
+    height: 40px;
     padding-left: 10px;
+    padding-right: 20px;
     border-bottom-left-radius: 10px ;
     border-top-left-radius: 10px ;
-
 }
-.btn_last{
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-    background-color: rgb(223, 150, 68);
-    padding: 7px;
+.email #second{
+    background-color: rgb(243, 114, 114);
+    border: none;
+    outline: none;
+    height: 40px;
     margin-left: -5px;
+    padding-left: 35px;
+    padding-right: 38px;
     border-bottom-right-radius: 10px ;
-    border-top-right-radius: 10px ; 
-
+    border-top-right-radius: 10px ;
+    color: white;
 }
+
 
 #footer{
     margin: -8px;
